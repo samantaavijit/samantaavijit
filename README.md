@@ -6,16 +6,14 @@
 **samantaavijit/samantaavijit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **bgfnfghh**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 🔭 I’m currently working on **working**
-- 📫 How to reach me **samantaavijit.2000@gmail.com**
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Flutter
+
+- 👯 I’m looking to collaborate with Android and Flutter
+- 📫 How to reach me: **samantaavijit.2000@gmail.com**
+- 💬 Ask me about Java or any teck related
+- 😄 Pronouns He/His
+- ⚡ Fun fact I spend almost 12 hours watch YouTube and learn new technology
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
