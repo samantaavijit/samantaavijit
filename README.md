@@ -34,6 +34,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samantaavijit&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="samantaavijit" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samantaavijit&theme=material-palenight&show_icons=true&locale=en" alt="samantaavijit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=samantaavijit&theme=material-palenight&show_icons=true&locale=en" alt="samantaavijit" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samantaavijit&theme=material-palenight&show_icons=true" alt="samantaavijit" /></p>
 
