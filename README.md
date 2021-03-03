@@ -16,15 +16,15 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/avijits62916909" target="blank"><img align="center" src="https://1.bp.blogspot.com/-Qka7ttHkAIw/YD-iA54CeoI/AAAAAAAAJKg/TfW2-LIo2j45IqzsRlMqeD9JlASMDEufACLcBGAsYHQ/s0/twitter.png" alt="avijits62916909" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avijit-samanta-338275157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avijit-samanta-338275157" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/8884284/avijit-samanta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8884284/avijit-samanta" height="30" width="40" /></a>
+<a href="https://twitter.com/avijits62916909" target="blank"><img align="center" src="https://1.bp.blogspot.com/-Qka7ttHkAIw/YD-iA54CeoI/AAAAAAAAJKg/TfW2-LIo2j45IqzsRlMqeD9JlASMDEufACLcBGAsYHQ/s0/twitter.png" alt="avijits62916909" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/avijit-samanta-338275157" target="blank"><img align="center" src="https://1.bp.blogspot.com/-FB0H_DLK3ik/YD-iAELi2jI/AAAAAAAAJKU/cJpKIm4cL2gTPEWy9McSQtypZMkZDTHEACLcBGAsYHQ/s0/linkedin.png" alt="avijit-samanta-338275157" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/8884284/avijit-samanta" target="blank"><img align="center" src="https://1.bp.blogspot.com/-iFOV1bI_vk4/YD-iAVMFteI/AAAAAAAAJKc/lHHaR-Uvzs45_dwAJZJwv_t718yoRIIIwCLcBGAsYHQ/s0/stackoverflow.png" alt="8884284/avijit-samanta" height="40" width="40" /></a>
 <a href="https://fb.com/avijit.samanta.12914" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="avijit.samanta.12914" height="30" width="40" /></a>
-<a href="https://instagram.com/avijitsamanta2017" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="avijitsamanta2017" height="30" width="40" /></a>
+<a href="https://instagram.com/avijitsamanta2017" target="blank"><img align="center" src="https://1.bp.blogspot.com/-IcMqKgoEvCw/YD-h_X3bYlI/AAAAAAAAJKM/US6tO1s2Ys8xRDBSZurB-UMha763bRA8gCLcBGAsYHQ/s0/instagram.png" alt="avijitsamanta2017" height="40" width="40" /></a>
 <a href="https://medium.com/@samantaavijit.2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@samantaavijit.2000" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samantaavijit_21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="samantaavijit_21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user6042a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="user6042a" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/samantaavijit2000/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="samantaavijit2000/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/samantaavijit2000/profile" target="blank"><img align="center" src="https://1.bp.blogspot.com/-QQrZGPzgyUQ/YD-h_SQP3mI/AAAAAAAAJKI/UZeDau_lDJsyfKag1XuaQXOlsZqzRyMUgCLcBGAsYHQ/s0/geeksforgeeks.png" alt="samantaavijit2000/profile" height="40" width="40" /></a>
 </p>
 
 
