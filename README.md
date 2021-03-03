@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with Android and Flutter
 - 📫 How to reach me: **samantaavijit.2000@gmail.com**
-- 💬 Ask me about Java or any teck related
+- 💬 Ask me about Java or any teck related stuff
 - 😄 Pronouns He/His
 - ⚡ Fun fact I spend almost 12 hours watch YouTube and learn new technology
 
